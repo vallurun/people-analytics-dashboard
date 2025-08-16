@@ -1,0 +1,501 @@
+employee_id,source,time_to_fill_days,diversity_flag
+1,Referral,43,1
+2,Agency,62,1
+3,Agency,30,0
+4,Referral,48,0
+5,LinkedIn,79,0
+6,Career Site,67,0
+7,Career Site,88,1
+8,Agency,87,1
+9,Agency,69,1
+10,Referral,75,0
+11,Referral,64,1
+12,LinkedIn,51,0
+13,Referral,89,0
+14,Agency,52,1
+15,Referral,22,1
+16,Campus,19,0
+17,LinkedIn,90,1
+18,Campus,48,0
+19,LinkedIn,14,0
+20,LinkedIn,45,0
+21,Referral,43,0
+22,Agency,44,0
+23,LinkedIn,28,0
+24,LinkedIn,39,0
+25,Career Site,56,0
+26,Campus,58,1
+27,Agency,67,1
+28,Agency,56,0
+29,LinkedIn,47,0
+30,Agency,25,0
+31,Campus,20,1
+32,Referral,56,1
+33,Campus,76,0
+34,Referral,85,0
+35,Referral,68,1
+36,Agency,16,0
+37,Agency,23,1
+38,LinkedIn,22,0
+39,Referral,71,1
+40,Referral,25,1
+41,Campus,69,0
+42,LinkedIn,38,0
+43,LinkedIn,72,0
+44,Agency,78,1
+45,Campus,82,1
+46,LinkedIn,17,0
+47,LinkedIn,42,1
+48,Referral,72,0
+49,Referral,40,1
+50,Agency,30,0
+51,LinkedIn,42,1
+52,Agency,53,1
+53,Agency,80,1
+54,LinkedIn,54,0
+55,Agency,20,1
+56,Campus,44,0
+57,Referral,45,1
+58,LinkedIn,39,1
+59,LinkedIn,78,1
+60,Career Site,81,1
+61,LinkedIn,27,0
+62,Campus,63,1
+63,Career Site,22,1
+64,Campus,42,1
+65,Agency,75,1
+66,Agency,82,1
+67,Agency,20,0
+68,Career Site,25,1
+69,Referral,18,0
+70,LinkedIn,73,0
+71,Agency,22,1
+72,Career Site,80,0
+73,Referral,64,0
+74,LinkedIn,18,1
+75,Referral,81,0
+76,LinkedIn,54,0
+77,Campus,66,0
+78,Referral,36,1
+79,Career Site,57,1
+80,LinkedIn,45,1
+81,Campus,28,0
+82,Agency,63,1
+83,Referral,37,1
+84,Career Site,64,0
+85,Referral,38,1
+86,LinkedIn,79,1
+87,Referral,17,1
+88,Campus,74,0
+89,Campus,55,1
+90,Referral,57,0
+91,Career Site,21,0
+92,Referral,87,1
+93,LinkedIn,46,0
+94,LinkedIn,55,0
+95,Agency,48,1
+96,Agency,61,1
+97,Career Site,62,1
+98,LinkedIn,43,0
+99,Career Site,86,0
+100,LinkedIn,35,0
+101,Agency,46,1
+102,Career Site,69,1
+103,Referral,44,1
+104,LinkedIn,58,0
+105,Agency,31,0
+106,Campus,72,1
+107,Career Site,73,0
+108,Agency,60,0
+109,LinkedIn,26,0
+110,Agency,17,0
+111,Referral,61,0
+112,Campus,22,1
+113,LinkedIn,39,1
+114,Career Site,53,1
+115,Career Site,53,1
+116,Agency,58,1
+117,Agency,87,0
+118,Campus,89,0
+119,Career Site,71,1
+120,LinkedIn,43,0
+121,Referral,60,1
+122,LinkedIn,86,0
+123,Career Site,89,1
+124,LinkedIn,30,1
+125,LinkedIn,37,1
+126,Campus,59,0
+127,Referral,21,0
+128,Agency,69,0
+129,Career Site,23,1
+130,Referral,55,1
+131,Agency,79,0
+132,Career Site,83,0
+133,Referral,62,0
+134,Referral,16,0
+135,Campus,60,0
+136,LinkedIn,40,0
+137,Campus,41,1
+138,Referral,85,0
+139,Referral,33,1
+140,LinkedIn,68,0
+141,Campus,47,1
+142,Referral,67,0
+143,Campus,73,0
+144,LinkedIn,14,1
+145,Referral,44,1
+146,Referral,80,0
+147,Referral,36,0
+148,Campus,28,1
+149,Campus,41,1
+150,Career Site,79,0
+151,Career Site,14,1
+152,LinkedIn,22,1
+153,Referral,54,1
+154,Referral,41,1
+155,Career Site,45,0
+156,Referral,34,1
+157,Agency,69,1
+158,Agency,34,0
+159,Career Site,24,0
+160,Referral,89,1
+161,LinkedIn,78,1
+162,Referral,67,1
+163,Career Site,89,1
+164,Career Site,49,1
+165,Campus,39,1
+166,Campus,79,0
+167,Campus,35,0
+168,LinkedIn,59,1
+169,LinkedIn,65,0
+170,Agency,68,1
+171,Agency,64,0
+172,Career Site,87,0
+173,LinkedIn,75,1
+174,Campus,65,1
+175,Campus,52,0
+176,Campus,14,0
+177,Agency,65,1
+178,Campus,87,0
+179,Agency,34,1
+180,Referral,50,0
+181,Referral,17,1
+182,Career Site,70,1
+183,Agency,60,0
+184,Agency,84,1
+185,Career Site,28,1
+186,Agency,63,1
+187,LinkedIn,61,1
+188,LinkedIn,60,0
+189,Agency,56,1
+190,Career Site,34,1
+191,LinkedIn,23,0
+192,Referral,21,0
+193,Referral,53,0
+194,Referral,21,1
+195,Agency,29,0
+196,Referral,84,0
+197,Referral,69,0
+198,LinkedIn,77,1
+199,Career Site,25,0
+200,Campus,30,1
+201,LinkedIn,24,0
+202,Referral,29,0
+203,LinkedIn,55,0
+204,LinkedIn,73,0
+205,LinkedIn,37,0
+206,Campus,59,0
+207,Agency,29,1
+208,Agency,64,1
+209,Agency,71,0
+210,Career Site,17,0
+211,Referral,37,0
+212,Agency,21,1
+213,Campus,18,1
+214,Campus,87,0
+215,Career Site,70,0
+216,Campus,57,1
+217,Campus,32,0
+218,Campus,80,0
+219,Career Site,36,1
+220,Referral,14,0
+221,Agency,67,0
+222,Campus,62,1
+223,Agency,75,0
+224,Agency,62,0
+225,Agency,41,0
+226,Campus,55,1
+227,Campus,47,1
+228,Referral,87,1
+229,Agency,24,1
+230,LinkedIn,33,1
+231,LinkedIn,87,1
+232,Agency,89,1
+233,LinkedIn,25,0
+234,LinkedIn,62,1
+235,LinkedIn,69,1
+236,Agency,24,1
+237,Agency,26,0
+238,Career Site,52,0
+239,LinkedIn,47,1
+240,Agency,40,1
+241,Campus,49,1
+242,Agency,65,1
+243,LinkedIn,19,0
+244,Agency,20,0
+245,Agency,62,0
+246,Agency,78,0
+247,Career Site,75,0
+248,LinkedIn,24,0
+249,Referral,73,1
+250,LinkedIn,51,1
+251,Campus,37,0
+252,LinkedIn,37,1
+253,Agency,35,0
+254,Referral,74,0
+255,Agency,47,0
+256,Referral,34,1
+257,LinkedIn,63,1
+258,Referral,26,1
+259,Career Site,54,0
+260,Career Site,43,1
+261,Career Site,81,0
+262,Agency,34,0
+263,Campus,54,1
+264,Referral,31,1
+265,Career Site,77,1
+266,Campus,61,0
+267,Campus,77,1
+268,Referral,57,0
+269,Agency,62,0
+270,Referral,77,1
+271,Agency,63,0
+272,Agency,17,1
+273,Referral,72,0
+274,Agency,72,1
+275,Campus,60,1
+276,Referral,83,0
+277,Agency,38,0
+278,Agency,51,0
+279,Campus,22,1
+280,LinkedIn,40,0
+281,Referral,79,0
+282,Referral,28,1
+283,LinkedIn,38,0
+284,Agency,20,1
+285,LinkedIn,49,1
+286,Campus,15,1
+287,Agency,89,0
+288,LinkedIn,87,0
+289,Referral,42,0
+290,Referral,29,1
+291,Campus,79,1
+292,Career Site,65,0
+293,LinkedIn,90,1
+294,LinkedIn,48,0
+295,Career Site,60,0
+296,LinkedIn,20,1
+297,Campus,82,1
+298,Referral,61,1
+299,Campus,31,1
+300,Agency,46,0
+301,Referral,34,0
+302,Referral,28,0
+303,Referral,53,0
+304,Campus,77,1
+305,Career Site,83,0
+306,LinkedIn,44,1
+307,Referral,44,0
+308,Referral,59,0
+309,LinkedIn,75,1
+310,Career Site,56,1
+311,LinkedIn,42,0
+312,Career Site,78,0
+313,LinkedIn,37,0
+314,LinkedIn,47,0
+315,Agency,25,1
+316,LinkedIn,68,1
+317,LinkedIn,79,1
+318,Referral,33,0
+319,Agency,69,1
+320,LinkedIn,79,1
+321,Referral,89,0
+322,Career Site,29,0
+323,LinkedIn,50,0
+324,Agency,20,0
+325,Campus,38,1
+326,Referral,43,0
+327,Career Site,47,1
+328,LinkedIn,44,1
+329,LinkedIn,42,1
+330,LinkedIn,39,1
+331,LinkedIn,82,1
+332,Agency,56,0
+333,Agency,56,0
+334,LinkedIn,65,1
+335,Career Site,22,0
+336,LinkedIn,23,0
+337,Campus,38,1
+338,LinkedIn,62,1
+339,Agency,38,0
+340,Career Site,86,1
+341,Agency,22,1
+342,Referral,32,0
+343,Career Site,69,0
+344,LinkedIn,37,0
+345,LinkedIn,28,1
+346,Referral,20,0
+347,Campus,48,1
+348,Referral,60,1
+349,Agency,34,1
+350,Career Site,36,0
+351,Referral,25,1
+352,Referral,33,1
+353,LinkedIn,28,1
+354,LinkedIn,42,0
+355,Referral,19,1
+356,LinkedIn,53,1
+357,Campus,89,1
+358,Campus,82,0
+359,Agency,80,0
+360,Career Site,57,0
+361,Agency,59,0
+362,Campus,49,0
+363,Campus,16,1
+364,Career Site,90,0
+365,LinkedIn,82,1
+366,Agency,29,1
+367,Agency,80,1
+368,Referral,79,1
+369,Campus,51,1
+370,Career Site,18,1
+371,Career Site,55,0
+372,Career Site,59,1
+373,Career Site,60,0
+374,Agency,40,0
+375,Career Site,46,1
+376,LinkedIn,48,0
+377,Agency,60,1
+378,LinkedIn,69,1
+379,Referral,57,1
+380,Career Site,27,0
+381,Career Site,27,1
+382,Referral,48,1
+383,LinkedIn,30,1
+384,Career Site,70,1
+385,Career Site,33,1
+386,Referral,37,0
+387,Agency,49,0
+388,Referral,56,0
+389,Referral,20,1
+390,Career Site,38,0
+391,Agency,79,0
+392,LinkedIn,48,1
+393,Campus,64,1
+394,LinkedIn,64,1
+395,Referral,62,0
+396,Agency,28,1
+397,Agency,30,0
+398,Campus,38,0
+399,LinkedIn,88,0
+400,Agency,26,0
+401,Referral,43,1
+402,Campus,87,1
+403,LinkedIn,18,1
+404,Campus,25,1
+405,LinkedIn,44,0
+406,Career Site,53,1
+407,Agency,15,0
+408,LinkedIn,56,1
+409,Referral,68,0
+410,Agency,89,0
+411,Career Site,18,1
+412,Agency,74,1
+413,Career Site,15,0
+414,Career Site,73,0
+415,Campus,36,1
+416,Campus,63,0
+417,LinkedIn,47,1
+418,LinkedIn,53,1
+419,Referral,14,0
+420,LinkedIn,25,0
+421,Agency,14,1
+422,Career Site,78,1
+423,Agency,58,1
+424,Referral,26,1
+425,LinkedIn,61,1
+426,Campus,40,0
+427,Career Site,59,1
+428,Campus,85,1
+429,Agency,24,1
+430,LinkedIn,60,1
+431,Referral,56,0
+432,Agency,34,1
+433,LinkedIn,60,0
+434,Career Site,14,0
+435,Referral,82,1
+436,Agency,65,1
+437,Referral,36,1
+438,Referral,61,0
+439,LinkedIn,62,0
+440,Agency,65,0
+441,Career Site,83,1
+442,Referral,83,0
+443,LinkedIn,36,0
+444,Agency,78,0
+445,Campus,35,1
+446,Agency,84,0
+447,Career Site,28,0
+448,Agency,53,1
+449,Referral,83,0
+450,Career Site,54,0
+451,Agency,77,1
+452,Campus,35,0
+453,LinkedIn,24,0
+454,Campus,79,0
+455,Agency,22,0
+456,Campus,16,0
+457,Campus,43,1
+458,LinkedIn,72,0
+459,Referral,39,1
+460,Agency,17,0
+461,Agency,61,0
+462,LinkedIn,16,0
+463,LinkedIn,34,1
+464,Agency,52,0
+465,Referral,70,1
+466,Campus,14,0
+467,Agency,43,1
+468,LinkedIn,84,1
+469,Campus,90,0
+470,Career Site,83,1
+471,Career Site,72,0
+472,Referral,49,1
+473,Campus,45,0
+474,Agency,64,0
+475,Referral,26,0
+476,Career Site,61,1
+477,Campus,58,1
+478,LinkedIn,59,1
+479,Referral,34,1
+480,Career Site,65,0
+481,Campus,33,1
+482,Referral,74,0
+483,Referral,45,1
+484,Campus,26,1
+485,Agency,58,0
+486,Career Site,50,1
+487,Campus,88,0
+488,Agency,69,0
+489,Agency,46,0
+490,Campus,84,0
+491,Referral,51,0
+492,Career Site,73,1
+493,Career Site,38,0
+494,Referral,66,0
+495,Campus,33,1
+496,Referral,69,1
+497,Agency,33,0
+498,Referral,87,0
+499,Referral,74,0
+500,Career Site,78,1
